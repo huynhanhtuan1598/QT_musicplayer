@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/anhtu/Desktop/Automotive/code_qt/ass_qt_01
+-cmake-output
+-output-file
+C:/Users/anhtu/Desktop/Automotive/code_qt/ass_qt_01/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appass_qt_01_conf.cmake
+-importPath
+C:/Users/anhtu/Desktop/Automotive/code_qt/ass_qt_01/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ass_qt_01
+-importPath
+C:/Users/anhtu/Desktop/Automotive/code_qt/ass_qt_01/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.1/mingw_64/qml
+-qrcFiles
+C:/Users/anhtu/Desktop/Automotive/code_qt/ass_qt_01/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_ass_qt_01.qrc
+C:/Users/anhtu/Desktop/Automotive/code_qt/ass_qt_01/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appass_qt_01_raw_qml_0.qrc

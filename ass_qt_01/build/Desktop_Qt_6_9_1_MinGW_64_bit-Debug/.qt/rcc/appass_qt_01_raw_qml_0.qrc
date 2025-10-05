@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/ass_qt_01/">
+    <file alias="Main.qml">C:/Users/anhtu/Desktop/Automotive/code_qt/ass_qt_01/Main.qml</file>
+    <file alias="Resource.qrc">C:/Users/anhtu/Desktop/Automotive/code_qt/ass_qt_01/Resource.qrc</file>
+  </qresource>
+</RCC>
+

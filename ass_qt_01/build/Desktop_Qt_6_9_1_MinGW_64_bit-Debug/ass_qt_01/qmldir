@@ -1,0 +1,5 @@
+module ass_qt_01
+typeinfo appass_qt_01.qmltypes
+prefer :/qt/qml/ass_qt_01/
+Main 1.0 Main.qml
+

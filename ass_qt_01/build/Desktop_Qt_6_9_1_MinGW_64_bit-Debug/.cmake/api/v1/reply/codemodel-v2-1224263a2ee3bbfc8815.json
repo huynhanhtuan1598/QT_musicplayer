@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ac75a42effe849a764ab.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ass_qt_01",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-ef574a28041220931382.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-37205b4c19fe8ad7c686.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-09790df0c3c679466f6c.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-3dc542ef3dc5b3aa76fc.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-1ef00057ee219406fb20.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appass_qt_01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appass_qt_01-Debug-1152db04773af9bc6b72.json",
+					"name" : "appass_qt_01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appass_qt_01_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appass_qt_01_autogen-Debug-63090386d6dca86e38b7.json",
+					"name" : "appass_qt_01_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appass_qt_01_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appass_qt_01_autogen_timestamp_deps-Debug-dc3313fcc27ba641402b.json",
+					"name" : "appass_qt_01_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appass_qt_01_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appass_qt_01_copy_qml-Debug-0104893cf7598264f5ec.json",
+					"name" : "appass_qt_01_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appass_qt_01_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appass_qt_01_copy_res-Debug-47e40876ac5acd769989.json",
+					"name" : "appass_qt_01_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appass_qt_01_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appass_qt_01_qmlimportscan-Debug-25f3f840c30d3b638306.json",
+					"name" : "appass_qt_01_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appass_qt_01_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appass_qt_01_qmllint-Debug-4dd9cafc9c2a2ef6c4f2.json",
+					"name" : "appass_qt_01_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appass_qt_01_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appass_qt_01_qmllint_json-Debug-4f3fdad0797f50bb902e.json",
+					"name" : "appass_qt_01_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appass_qt_01_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appass_qt_01_qmllint_module-Debug-6dd53ec160a57670eca3.json",
+					"name" : "appass_qt_01_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appass_qt_01_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appass_qt_01_qmltyperegistration-Debug-dadea6643a4008e1b109.json",
+					"name" : "appass_qt_01_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appass_qt_01_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appass_qt_01_aotstats_target-Debug-aedd16f872986737a01c.json",
+					"name" : "module_appass_qt_01_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/anhtu/Desktop/Automotive/code_qt/ass_qt_01/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/anhtu/Desktop/Automotive/code_qt/ass_qt_01"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
